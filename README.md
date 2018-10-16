@@ -1,6 +1,6 @@
 # nginxCIdemo
 
-# NGINX CI Demo REpo
+# NGINX CI Demo Repo
 
 This repo provides an implementation of an repository that is connected to a [Jenkins](https://jenkins.io) workflow that will test and update a NGINX configuration [NGINX](https://www.nginx.com).
 
