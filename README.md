@@ -1,8 +1,8 @@
 # nginxCIdemo
 
-# NGINX CI Demo REpo
+# NGINX CI Demo Repo
 
-This repo provides an implementation of an repository that is connected to a [Jenkins](https://jenkins.io) workflow that will test and update a NGINX configuration [NGINX](https://www.nginx.com).
+This repo provides a repository that that can be connected to a [Jenkins](https://jenkins.io) workflow that will test and update a NGINX configuration [NGINX](https://www.nginx.com).
 
 ## What is CI/CD?
 A Continuous Integration / Continuous Delivery platform allows for a system to be pushed, typically through a set of workflows that will allow it to:
